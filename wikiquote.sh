@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-# wkq in ~/.bashrc
 
 import random as rdm
 import wikiquote as wkq
